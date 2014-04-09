@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_play"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="Play Demo"/>
+    
+    <item
+        android:id="@+id/action_stop"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="Stop Mplayer"/>
+    
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="About Us"/>
+
+</menu>
